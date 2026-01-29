@@ -1,5 +1,4 @@
-#👨‍💻 KINGSLEY-XD 👨‍💻
-      👑👑
+# KINGSLEY-XD 👑👑
 Installation Instructions for Termux:
 
 1. First, update Termux:
